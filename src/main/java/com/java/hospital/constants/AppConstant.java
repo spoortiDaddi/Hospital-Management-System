@@ -8,5 +8,7 @@ public interface AppConstant {
 
 	public static String DeletePatientDetails="/";
 
+	public static String UpdatePatientDetails="/";
+
 	
 }
